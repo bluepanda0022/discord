@@ -286,4 +286,4 @@ async def on_ready():
 
 
 # 봇 토큰 설정
-bot.run('MTI4NzAxOTMxNDY4MzA1NjE5MA.GEi2M8.c944aeOpaxf7K9y46G-0AM7InAjjzI7-zveN-s')
+bot.run('비밀')
